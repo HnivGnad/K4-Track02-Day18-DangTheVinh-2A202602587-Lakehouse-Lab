@@ -27,4 +27,3 @@
 - Tám notebook trong `submission/notebooks/` đã được thực thi bằng kernel của `.venv` và giữ output.
 
 Chi tiết số liệu và diễn giải: [RESULTS.md](RESULTS.md).
-

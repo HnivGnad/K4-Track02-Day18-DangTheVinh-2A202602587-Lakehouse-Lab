@@ -91,4 +91,3 @@ Diễn giải: version pin là điều kiện tối thiểu cho reproducibility;
 1. Tự chụp ảnh theo [screenshots/README.md](screenshots/README.md).
 2. Xác nhận cách viết họ tên trong `INFO.md`.
 3. Commit/push, mở PR và gửi repo URL + PR URL + commit SHA theo `docs/SUBMISSION.md`.
-

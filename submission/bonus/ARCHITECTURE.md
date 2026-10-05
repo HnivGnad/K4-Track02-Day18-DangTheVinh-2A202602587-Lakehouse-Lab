@@ -1,7 +1,7 @@
 # Architecture Brief — LLM Observability ở quy mô 1B request/ngày
 
-**Tác giả:** Dang The Vinh — 2A202602587  
-**Phạm vi:** Topic A, thiết kế cá nhân cho design review  
+**Tác giả:** Dang The Vinh — 2A202602587<br>
+**Phạm vi:** Topic A, thiết kế cá nhân cho design review<br>
 **Ngày:** 2026-10-05
 
 ## 1. Problem statement
@@ -146,4 +146,3 @@ MVP không cố đạt 1B request/ngày ngay. Slice nhỏ nhất chứng minh c�
 - [Delta Lake — Optimizations](https://docs.delta.io/optimizations-oss/): compaction, file size và data skipping.
 - [Amazon S3 — Managing object lifecycle](https://docs.aws.amazon.com/AmazonS3/latest/userguide/object-lifecycle-mgmt.html): transition/expiration và lưu ý request charge.
 - [Amazon S3 Pricing](https://aws.amazon.com/s3/pricing/): kiểm tra lại đơn giá, minimum duration và request cost trước triển khai.
-

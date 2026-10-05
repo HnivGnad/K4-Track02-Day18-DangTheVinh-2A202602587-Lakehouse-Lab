@@ -26,4 +26,3 @@ $env:IPYTHONDIR = "$PWD\.jupyter\ipython"
 ```
 
 Sau khi chụp, lưu đúng tên vào thư mục này và kiểm tra ảnh mở được trước khi commit.
-

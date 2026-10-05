@@ -18,4 +18,3 @@ OpenAI Codex được sử dụng trong quá trình hoàn thiện bài lab.
 - Các số liệu trong `RESULTS.md` được lấy từ lần chạy ngày 2026-10-05 trên máy này.
 - Phép tính chi phí trong bonus là ước lượng thiết kế với giả định được ghi rõ, không phải báo giá thương mại.
 - Người nộp cần tự đọc lại, hiểu mã nguồn, xác nhận họ tên và tự chụp ảnh bằng chứng trước khi nộp.
-
