@@ -1,6 +1,7 @@
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+.jupyter/
 .DS_Store
 data/*.parquet
 data/*.json
